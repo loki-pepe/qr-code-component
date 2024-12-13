@@ -14,7 +14,8 @@ html {
 }
 
 .attribution {
-    font-size: 11px; text-align: center;
+    font-size: 11px;
+    text-align: center;
 }
 
 .attribution a {
@@ -23,4 +24,5 @@ html {
 
 body {
     font-family: "Outfit", "Tahoma", sans-serif;
+    background-color: var(--slate-300);
 }
