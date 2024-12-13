@@ -20,3 +20,7 @@ html {
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
+
+body {
+    font-family: "Outfit", "Tahoma", sans-serif;
+}
