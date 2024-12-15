@@ -29,6 +29,7 @@ main {
     width: 320px;
     padding: 16px 16px 40px;
     border-radius: 20px;
+    text-align: center;
 }
 
 main img {
