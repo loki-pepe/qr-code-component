@@ -23,6 +23,13 @@ body {
     align-items: center;
 }
 
+h1 {
+    font-size: 22px;
+    line-height: 120%;
+    letter-spacing: 0;
+    color: var(--slate-900);
+}
+
 main {
     background-color: var(--white);
     height: 499px;
