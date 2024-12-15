@@ -29,4 +29,12 @@ body {
 
 main {
     background-color: var(--white);
+    height: 499px;
+    width: 320px;
+    padding: 16px 16px 40px;
+}
+
+main img {
+    max-width: 100%;
+    height: auto;
 }
