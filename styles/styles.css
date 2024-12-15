@@ -28,9 +28,11 @@ main {
     height: 499px;
     width: 320px;
     padding: 16px 16px 40px;
+    border-radius: 20px;
 }
 
 main img {
     max-width: 100%;
     height: auto;
+    border-radius: 10px;
 }
