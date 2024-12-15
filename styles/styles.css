@@ -44,3 +44,10 @@ main img {
     height: auto;
     border-radius: 10px;
 }
+
+p {
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    color: var(--slate-500);
+}
